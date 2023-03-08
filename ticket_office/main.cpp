@@ -25,11 +25,11 @@ int main()
     }
 
     // определяем скидку в зависимости от возраста самого младшего члена группы
-    float discount = 1 - (discount / 100);
+    float discount = 1 - (min_age / 100);
 
     // вычисляем общую стоимость билетов
     total_cost = TICKET_PRICE * 5 * discount;
-    
+
     cout << "Общая стоимость билетов: " << total_cost << " долларов." << endl;
 
     return 0;
