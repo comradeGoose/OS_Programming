@@ -6,4 +6,4 @@
 
 ***
 
-<---  ### [Программирование для ОС](https://github.com/comradeGoose/OS_Programming)
+### <--- [Программирование для ОС](https://github.com/comradeGoose/OS_Programming)
