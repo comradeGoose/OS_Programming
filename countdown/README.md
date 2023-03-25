@@ -22,4 +22,4 @@
 |             | 1            |
 ***
 
-### <--- [Программирование для ОС](https://github.com/comradeGoose/OS_Programming)
+### <--- [Программирование для ОС](https://github.com/comradeGoose/OS_Programming#%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BE%D1%82%D1%81%D1%87%D0%B5%D1%82)
