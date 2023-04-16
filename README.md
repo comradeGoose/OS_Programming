@@ -17,3 +17,6 @@
 * [Очередь](https://github.com/comradeGoose/OS_Programming/tree/master/queue)
 
 * [Сортировка по номеру телефона в файле](https://github.com/comradeGoose/OS_Programming/tree/master/sort_by_phone_number_in_file)
+
+* [Ходы ферзя](https://github.com/comradeGoose/OS_Programming#)
+
