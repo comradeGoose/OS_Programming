@@ -4,14 +4,17 @@
 
 ## Задачи
 
-* ###  [Посчитать площадь произвольного многоугольника](https://github.com/comradeGoose/OS_Programming/tree/master/area_of_an_arbitrary_polygon)
+* [Посчитать площадь произвольного многоугольника](https://github.com/comradeGoose/OS_Programming/tree/master/area_of_an_arbitrary_polygon)
 
-* ###  [Перевозка пассажиров](https://github.com/comradeGoose/OS_Programming/tree/master/passenger_transportation)
+* [Перевозка пассажиров](https://github.com/comradeGoose/OS_Programming/tree/master/passenger_transportation)
 
-* ### [Обратный отсчет](https://github.com/comradeGoose/OS_Programming/tree/master/countdown)
+* [Обратный отсчет](https://github.com/comradeGoose/OS_Programming/tree/master/countdown)
 
-* ### [Билетная касса](https://github.com/comradeGoose/OS_Programming/tree/master/ticket_office)
+* [Билетная касса](https://github.com/comradeGoose/OS_Programming/tree/master/ticket_office)
 
-* ### [Палиндром](https://github.com/comradeGoose/OS_Programming/tree/master/palindrome)
+* [Палиндром](https://github.com/comradeGoose/OS_Programming/tree/master/palindrome)
 
-* ### [Очередь](https://github.com/comradeGoose/OS_Programming/tree/master/queue)
+* [Очередь](https://github.com/comradeGoose/OS_Programming/tree/master/queue)
+
+
+* [Сортировка по номеру телефона в файле]()
