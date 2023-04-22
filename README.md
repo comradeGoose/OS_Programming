@@ -18,7 +18,7 @@
 
 * [Сортировка по номеру телефона в файле](https://github.com/comradeGoose/OS_Programming/tree/master/sort_by_phone_number_in_file)
 
-* [Сортировка по номеру телефона в файле](https://github.com/comradeGoose/OS_Programming/tree/master/curly_braces)
+* [Баланс фигурных скобок в файле](https://github.com/comradeGoose/OS_Programming/tree/master/curly_braces)
 
 * [Ходы ферзя](https://github.com/comradeGoose/OS_Programming/tree/master/queen_moves)
 
